@@ -1,5 +1,4 @@
-"""Module containing code for calculating ancestral states.
-"""
+"""Module containing code for calculating ancestral states."""
 import math
 import sys
 
