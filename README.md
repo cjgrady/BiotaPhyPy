@@ -1,5 +1,5 @@
 # BiotaPhyPy
-[![Latest release](https://img.shields.io/github/release/biotaphy/BiotaPhyPy.svg)](https://github.com/biotaphy/BiotaPhyPy/releases/latest)
+[![Coverage Status](https://coveralls.io/repos/github/cjgrady/BiotaPhyPy/badge.svg?branch=master)](https://coveralls.io/github/cjgrady/BiotaPhyPy?branch=master)[![Latest release](https://img.shields.io/github/release/biotaphy/BiotaPhyPy.svg)](https://github.com/biotaphy/BiotaPhyPy/releases/latest)
 [![Build Status](https://travis-ci.org/biotaphy/BiotaPhyPy.svg?branch=master)](https://travis-ci.org/biotaphy/BiotaPhyPy) [![Coverage Status](https://coveralls.io/repos/github/biotaphy/BiotaPhyPy/badge.svg?branch=master)](https://coveralls.io/github/biotaphy/BiotaPhyPy?branch=master)
 [![License Badge](https://img.shields.io/github/license/biotaphy/BiotaPhyPy.svg)](https://github.com/biotaphy/BiotaPhyPy/blob/master/LICENSE)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
